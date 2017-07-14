@@ -1,0 +1,8 @@
+*.o
+b2membuf
+deps
+exobasic
+exomizer
+exoraw
+sfxdecr
+sfxdecr.c
